@@ -1,4 +1,4 @@
-<img src="Banner.gif">
+<img src="GithubBanner.gif">
 
 <h1 align="center">Hey 👋 I'm Joaquin</h1>
 <h3 align="center">A curious software developer from Argentina</h3>
